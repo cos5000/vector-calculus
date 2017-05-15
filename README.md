@@ -1,5 +1,4 @@
-# vector-calculus
-sagemath worksheets using sage-7.6
+# Vector Calculus
 ## Vectors to Describe Location in Space
 ### Two Dimensions
 ### Three Dimensions
